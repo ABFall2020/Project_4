@@ -37,8 +37,8 @@ We will use Tableau's extensive library of visuals to create the visuals for thi
 
 # Tools Utilized
 
-Python
-Tableau
-Pandas for data cleanup
+* Python
+* Tableau
+* Pandas for data cleanup
 
  
