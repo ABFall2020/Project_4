@@ -44,39 +44,45 @@ We will use Keras-Tuner for predictive modeling in this project.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/ff84a27b-2af5-413a-a71b-f75e62e19ee8)
    
-  3.  Encode the categorical variable from the features data using get_dummies.
-            
-  4.  Separate the data into training and testing subsets.
+  2.  Encode the categorical variable from the features data.
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/e9325ce6-dfaa-43ad-a364-75ed50e3bfc3)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/2c1c4d6c-17f8-4ec3-a7a6-826cd885f533)
+
+  3.  Separate the data into training and testing subsets.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/6f6e9ac8-8d28-412b-b6f2-06fa9d85be7b)
 
-  6.  Scale the data using StandardScaler.
+  4.  Scale the data using StandardScaler.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/dfc56c05-807d-4085-95ad-8371d9b263c6)
 
-  7.  Create a method that creates a new Sequential model with hyperparameter options.
+  5.  Create a method that creates a new Sequential model with hyperparameter options.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/d977b8b5-bc85-4959-97b4-7e6c9c711bfc)
 
-  8.  Allow kerastuner to decide which activation function to use in hidden layers.
+  6.  Allow kerastuner to decide which activation function to use in hidden layers.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/0c6a2756-7e45-46b4-8b5a-d43bc0740368)
    
-  9.  Allow kerastuner to decide number of hidden layers and neurons in hidden layers.
+  7.  Allow kerastuner to decide number of hidden layers and neurons in hidden layers.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/b3af6ddf-cd2d-4cb7-8a3e-8c7125875feb)
     
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/522d00d1-f1dc-453f-92b2-d8c520fb0bc4)
     
-  10.  Compile the model.
+  8.  Compile the model.
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/fb1ef502-ef47-475b-8cb7-9081934369af)
 
-  11.  Run the kerastuner search for best hyperparameters.
+  9.  Run the kerastuner search for best hyperparameters.
  
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/e2850615-4797-4d14-bc99-8acfb6f2416e)
+
+    * Best hyperparameter elu
       
-  11. Accuracy 0.70
+  10. Accuracy 0.70
   
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/21d9a314-dcf7-462e-b241-50029dd4994d)
    
