@@ -120,7 +120,7 @@ We will use Tableau's extensive library of visuals to create the visuals for thi
 
 # Coclusion
 
-  * Overall conclusion of our project  Single females and Males who enrolled at an average age of 26 are at a hiher risk to dropout
+  * Overall conclusion of our project  Single females and Males who enrolled at an average age of 26 we can predict they are at a higher risk to dropout
 
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/b42c93bb-5273-4a9b-9e23-5d81112a9fcb)
 
