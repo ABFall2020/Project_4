@@ -118,7 +118,7 @@ We will use Tableau's extensive library of visuals to create the visuals for thi
 * Tableau
 * Pandas for data cleanup
 
-# Coclusion
+# Conclusion
 
   * Overall conclusion of our project  Single females and Males who enrolled at an average age of 26 we can predict they are at a higher risk to dropout
 
