@@ -1,4 +1,9 @@
 # Project 4:  
+
+Dashboard https://public.tableau.com/app/profile/adriana.pizana/viz/Graduates_17177753789430/Dashboard1?publish=yes
+
+Click on graph by country, marital status, female, Male or age of enrollment to navigate features.
+
 For this project, we were tasked with finding a problem worth solving, analyzing or visualizing
 using machine learning with the technologies we have learned.
 
@@ -92,6 +97,19 @@ We will use Keras-Tuner for predictive modeling in this project.
 We will use Tableau's extensive library of visuals to create the visuals for this project.
 
 
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/767280bb-387a-4fbb-a051-0a35048ab740)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/b34d0d2a-5185-4c38-8d0c-f8b30f49584c)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/c521b318-e9e6-4eb6-a75c-83a64b93b03d)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/7c5495b6-6eed-43b3-abbc-4033f66d0cdc)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/162bb6bf-079f-47d0-925c-0049a44df28b)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/008ce879-e243-48b5-a4b0-27b1037a2d03)
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/f8486fbe-f86e-43e0-a8d4-c50d3fb2b6a0)
 
 
 # Tools Utilized
@@ -99,6 +117,19 @@ We will use Tableau's extensive library of visuals to create the visuals for thi
 * Python
 * Tableau
 * Pandas for data cleanup
+
+# Coclusion
+
+  * Overall conclusion of our project  Single females and Males who enrolled at an average age of 26 are at a hiher risk to dropout
+
+![image](https://github.com/ABFall2020/Project_4/assets/152649998/b42c93bb-5273-4a9b-9e23-5d81112a9fcb)
+
+
+  * Limitations
+      
+      * We were able to find the dataset from kaggle.  However, this was rather small dataset with total of 2,209 graduate studnets, 794 enroll and 1,421 dropout.  Although it had different countries identified, the majority of students were from Portugal.
+
+
 
 # Data Source
 
