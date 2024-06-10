@@ -80,7 +80,7 @@ We will use Keras-Tuner for predictive modeling in this project.
  
 ![image](https://github.com/ABFall2020/Project_4/assets/152649998/e2850615-4797-4d14-bc99-8acfb6f2416e)
 
-     * Best hyperparameter elu
+   * Best hyperparameter elu
       
   10. Accuracy 0.70
   
