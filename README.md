@@ -12,17 +12,11 @@ Team Members:
 
 Esteban Quintanilla, Karina Gonzalez, Adriana Pizana, Mallory Olajide
 
-
 Project Description:
 
 The goal of this project is to use certain variables that can contribute towards the likelihood of
 that student dropping out of their undergraduate degree plans. Some of these variables will
 include Gender, Marital Status, Nationality, Scholarship holder, Age at enrollment, etc
-
-
-# Data Source
-
-https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
 Rough Breakdown of Tasks:
 
@@ -34,7 +28,7 @@ Rough Breakdown of Tasks:
    * Students by gender
    * Total of students (Dropout, Enrolled and Graduated)
 
-#Process
+# Process
 
 Our group leveraged the activites we have learned so far throughout the boot camp.  From reading csv file, data clean up, to visualization using bar charts, pie charts, chart and map, handling missing values, encoding categorical variables, normalizing numerical features and splitting the data into training and testing sets.  Dependencies leveraged for code:  Python, Pandas, numpy, pathlib, seaborn, matplotlib.pyplot, tensorflow, StandardScaler, train_test_split, os, balanced_accuracy_score, confusion_matrix, keras_tuner, Classification_report.
 
@@ -59,4 +53,6 @@ We will use Tableau's extensive library of visuals to create the visuals for thi
 * Tableau
 * Pandas for data cleanup
 
- 
+# Data Source
+
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
